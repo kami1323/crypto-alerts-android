@@ -1,0 +1,1 @@
+# Crypto Alerts Android App\n\nA Kotlin-based Android cryptocurrency price monitoring application that provides real-time price alerts and tracking for Binance cryptocurrencies.
